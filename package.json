@@ -1,0 +1,20 @@
+{
+  "name": "semana-omnistack-11",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r     <img alt=\"BeTheHero\" title=\"#delicinha\" src=\".github/bethehero.svg\" width=\"200px\" />\r </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocketseat-education/semana-omnistack-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rocketseat-education/semana-omnistack-11/issues"
+  },
+  "homepage": "https://github.com/rocketseat-education/semana-omnistack-11#readme"
+}
